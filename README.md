@@ -1,16 +1,29 @@
-# kisisel_app
+Kişisel Asistan Uygulaması
+Bu proje, kullanıcıların günlük görevlerini ve notlarını yönetmelerine yardımcı olan bir Kişisel Asistan Uygulamasıdır. Flutter ile geliştirilen bu uygulama, kullanıcı dostu bir arayüz ve çeşitli özelliklerle donatılmıştır. Özellikle görevlerin yönetimi, hatırlatıcı bildirimleri ve hava durumu gibi ek özellikler içermektedir.
 
-A new Flutter project.
+Özellikler
+Görev Yönetimi:
 
-## Getting Started
+Görev ekleme, düzenleme ve silme.
+Görevlerin kategoriye göre ayrılması (İş, Gündelik, Okul vb.).
+Son 3 saat içerisinde bitiş süresi olan görevler için hatırlatıcı.
+Not Yönetimi:
 
-This project is a starting point for a Flutter application.
+Kullanıcılar, önemli bilgilerini not olarak kaydedebilir.
+Kaydırılabilir bir widget ile notlara kolayca erişim.
+Hatırlatıcı:
 
-A few resources to get you started if this is your first Flutter project:
+Bitiş tarihi yaklaşan görevleri (son 3 saat) listeleme.
+Görev durumuna göre (tamamlanan/tamamlanmayan) filtreleme.
+Hava Durumu Entegrasyonu:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Basit bir arayüzle hava durumu bilgisinin görüntülenmesi.
+Bildirim Gönderimi:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Son 3 saat içerisinde bitiş süresi olan görevler için uyarıcı bildirim.
+Kullanılan Teknolojiler
+Flutter: UI geliştirme için.
+Shared Preferences: Verilerin cihazda saklanması için.
+Intl: Tarih ve saat işlemleri için.
+Flutter Local Notifications: Bildirim gönderimi için.
+Timezone: Zamanlama ve hatırlatıcı yönetimi için.
