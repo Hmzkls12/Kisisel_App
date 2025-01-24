@@ -20,8 +20,7 @@ Hava Durumu Entegrasyonu:
 Basit bir arayüzle hava durumu bilgisinin görüntülenmesi.
 
 #### Kullanılan Teknolojiler
-Flutter: UI geliştirme için. <br>
-Shared Preferences: Verilerin cihazda saklanması için. <br>
-Intl: Tarih ve saat işlemleri için. <br>
-Flutter Local Notifications: Bildirim gönderimi için. <br>
-Timezone: Zamanlama ve hatırlatıcı yönetimi için.
+<strong>Flutter:</strong> UI geliştirme için. <br>
+<strong>Shared Preferences:</strong> Verilerin cihazda saklanması için. <br>
+<strong>Intl:</strong> Tarih ve saat işlemleri için. <br>
+<strong>Timezone:</strong> Zamanlama ve hatırlatıcı yönetimi için.
