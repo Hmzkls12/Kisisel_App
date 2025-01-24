@@ -1,5 +1,5 @@
 # Kişisel Asistan Uygulaması
-Bu proje, kullanıcıların günlük görevlerini ve notlarını yönetmelerine yardımcı olan bir Kişisel Asistan Uygulamasıdır. Flutter ile geliştirilen bu uygulama, kullanıcı dostu bir arayüz ve çeşitli özelliklerle donatılmıştır. Özellikle görevlerin yönetimi, hatırlatıcı bildirimleri ve hava durumu gibi ek özellikler içermektedir.
+Bu proje, kullanıcıların günlük görevlerini yönetmelerine yardımcı olacak bir Kişisel Asistan Uygulamasıdır.
 
 ## Özellikler
 #### Görev Yönetimi:
